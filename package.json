@@ -1,0 +1,24 @@
+{
+    "name": "travel-visa-widget",
+    "description": "Travel Visa Widget is a tool for WordPress sites to know which countries need a travel visa.",
+    "version": "1.0.0",
+    "homepage": "https://wordpress.org/plugins/travel-visa-widget/",
+    "license": "GPL-2.0",
+    "private": true,
+    "author": {
+        "name": "Visamundi",
+        "url": "https://www.visamundi.co/"
+    },
+    "devDependencies": {
+        "gulp": "^4.0.2",
+        "gulp-autoprefixer": "^8.0.0",
+        "gulp-imagemin": "7.1.0",
+        "gulp-sass": "^5.1.0",
+        "gulp-uglify": "^3.0.2",
+        "readable-stream": "^4.3.0",
+        "sass": "^1.58.3"
+    },
+    "browserslist": [
+        "last 10 versions"
+    ]
+}

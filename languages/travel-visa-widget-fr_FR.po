@@ -1,0 +1,211 @@
+# Copyright (C) 2023 Visamundi
+# This file is distributed under the same license as the Travel Visa Widget plugin.
+msgid ""
+msgstr ""
+"Project-Id-Version: Travel Visa Widget\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/travel-visa-"
+"widget\n"
+"POT-Creation-Date: 2024-07-16T15:56:58+00:00\n"
+"PO-Revision-Date: 2024-07-16 17:57+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: fr_FR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Poedit 3.4.4\n"
+"X-Domain: travel-visa-widget\n"
+
+#. Plugin Name of the plugin
+#: travel-visa-widget.php
+msgid "Travel Visa Widget"
+msgstr "Travel Visa Widget"
+
+#. Plugin URI of the plugin
+#: travel-visa-widget.php
+msgid "https://wordpress.org/plugins/travel-visa-widget/"
+msgstr "https://wordpress.org/plugins/travel-visa-widget/"
+
+#. Description of the plugin
+#: travel-visa-widget.php
+msgid ""
+"Travel Visa Widget is a tool to know which countries need a travel visa."
+msgstr ""
+"Travel Visa Widget est un outil pour savoir quels pays ont besoin d’un visa "
+"de voyage."
+
+#. Author of the plugin
+#: travel-visa-widget.php
+msgid "Visamundi"
+msgstr "Visamundi"
+
+#. Author URI of the plugin
+#: travel-visa-widget.php
+msgid "https://www.visamundi.co/"
+msgstr "https://www.visamundi.co/"
+
+#: inc/admin.php:14 inc/admin.php:15 inc/widget/class-vmtvw-widget.php:19
+msgctxt "Name of the plugin"
+msgid "Travel Visa Widget"
+msgstr "Travel Visa Widget"
+
+#: inc/admin.php:43
+msgid "General settings"
+msgstr "Paramètres généraux"
+
+#: inc/admin.php:51
+msgid "Agency ID"
+msgstr "Identifiant d’agence"
+
+#: inc/admin.php:58
+msgid "Affilae ID"
+msgstr "Identifiant Affilae"
+
+#: inc/admin.php:148
+msgid ""
+"Provide an agency ID to merge all applications from travellers in your "
+"Visamundi dashboard."
+msgstr ""
+"Fournissez un identifiant d'agence pour retrouver toutes les candidatures "
+"des voyageurs dans votre tableau de bord Visamundi."
+
+#: inc/admin.php:149
+msgid "You can contact us at %s to get this ID."
+msgstr "Vous pouvez nous contacter à %s pour obtenir cet identifiant."
+
+#: inc/admin.php:169
+msgid ""
+"If you have a partner identifier, you can fill it in to facilitate the "
+"refund."
+msgstr ""
+"Si vous possédez un identifiant partenaire, vous pouvez le renseigner afin "
+"de faciliter la rétrocommission."
+
+#: inc/admin.php:170
+msgid "More information on %s."
+msgstr "Plus d’informations sur %s."
+
+#: inc/admin.php:170
+msgid "the Affilae website"
+msgstr "le site Affilae"
+
+#: inc/ajax.php:37
+msgid "An error occurred"
+msgstr "Une erreur s’est produite"
+
+#: inc/render.php:29
+msgctxt "Find your Visa with Visamundi"
+msgid "Find your %1$s with %2$s"
+msgstr "Trouvez votre %1$s avec %2$s"
+
+#: inc/render.php:30
+msgid "Visa"
+msgstr "Visa"
+
+#: inc/render.php:99
+msgctxt "To travel to (destination_name) with a (nationality_demonym), ..."
+msgid "a visa is required"
+msgstr "un visa est requis"
+
+#: inc/render.php:100
+msgctxt "To travel to (destination_name) with a (nationality_demonym), ..."
+msgid "a visa is granted on arrival"
+msgstr "un visa est accordé à l’arrivée"
+
+#: inc/render.php:101
+msgctxt "To travel to (destination_name) with a (nationality_demonym), ..."
+msgid "you will need a travel document"
+msgstr "vous aurez besoin d’un document de voyage"
+
+#: inc/render.php:102
+msgctxt "To travel to (destination_name) with a (nationality_demonym), ..."
+msgid "you will need a Hayya Entry Permit"
+msgstr "vous aurez besoin d’un permis d’entrée Hayya"
+
+#: inc/render.php:103
+msgctxt "To travel to (destination_name) with a (nationality_demonym), ..."
+msgid "no visa is required"
+msgstr "aucun visa n’est requis"
+
+#: inc/render.php:104
+msgctxt "To travel to (destination_name) with a (nationality_demonym), ..."
+msgid "it's compromised because no admission is possible"
+msgstr "c’est compromis car aucune admission n’est possible"
+
+#: inc/render.php:110
+msgid "no visa is required for a stay of up to %d days"
+msgstr "aucun visa n’est requis pour un séjour jusqu’à %d jours"
+
+#: inc/render.php:112
+msgid "Please choose a destination different from your passport."
+msgstr ""
+"Veuillez choisir une destination différente de celle de votre passeport."
+
+#: inc/render.php:114
+msgctxt "To travel to (destination_name) with a (nationality_demonym), ..."
+msgid "we don't have information on what is needed"
+msgstr "nous n’avons pas d’informations sur ce qui est nécessaire"
+
+#: inc/render.php:120
+msgctxt ""
+"To travel (destination_prefix) (destination_name) with a "
+"(nationality_demonym) passport, (you will/won't need ...)"
+msgid "To travel %1$s %2$s with a %3$s passport, %4$s."
+msgstr "Pour voyager %1$s %2$s avec un passeport %3$s, %4$s."
+
+#: inc/render.php:138
+msgid "Get my Visa"
+msgstr "Obtenir mon Visa"
+
+#: inc/render.php:141
+msgid "Get my other mandatory document"
+msgstr "Obtenir mon autre document obligatoire"
+
+#: inc/render.php:143
+msgid "Get my Document"
+msgstr "Obtenir mon document"
+
+#: inc/render.php:153
+msgid "Our teams have been notified and will update the data accordingly."
+msgstr ""
+"Nos équipes ont été averties et vont mettre les données à jour en "
+"conséquence."
+
+#: inc/widget/class-vmtvw-widget.php:21
+msgid "A widget to know which countries need a travel visa."
+msgstr "Un widget pour savoir quels pays ont besoin d’un visa de voyage."
+
+#: views/public/widget-base.php:22 views/public/widget-base.php:23
+msgid "What is your nationality ?"
+msgstr "Quelle est votre nationalité ?"
+
+#: views/public/widget-base.php:26
+msgid "Nationality"
+msgstr "Nationalité"
+
+#: views/public/widget-base.php:31 views/public/widget-base.php:32
+msgid "What is your destination ?"
+msgstr "Quelle est votre destination ?"
+
+#: views/public/widget-base.php:35
+msgid "Destination"
+msgstr "Destination"
+
+#~ msgid "Display Visamundi credits"
+#~ msgstr "Afficher les crédits de Visamundi"
+
+#~ msgid "Show/Hide \"Proudly powered by Visamundi\" below the widget"
+#~ msgstr "Affiche/Masque \"Fièrement propulsé par Visamundi\" sous le widget"
+
+#~ msgctxt "Proudly powered by Visamundi"
+#~ msgid "Proudly powered by %s"
+#~ msgstr "Fièrement propulsé par %s"
+
+#~ msgctxt "To travel to (destination_name) with a (nationality_demonym), ..."
+#~ msgid "a suspension due to covid will prevent you from traveling there"
+#~ msgstr "une suspension pour cause de covid vous empêchera de vous y rendre"
+
+#~ msgctxt "To travel to (destination_name) with a (nationality_demonym), ..."
+#~ msgid "you will need an e-Visa"
+#~ msgstr "vous aurez besoin d’un e-Visa"

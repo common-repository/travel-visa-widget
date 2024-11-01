@@ -1,0 +1,178 @@
+# Copyright (C) 2024 Visamundi
+# This file is distributed under the same license as the Travel Visa Widget plugin.
+msgid ""
+msgstr ""
+"Project-Id-Version: Travel Visa Widget 0.6.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/travel-visa-widget\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2024-07-16T15:56:58+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.10.0\n"
+"X-Domain: travel-visa-widget\n"
+
+#. Plugin Name of the plugin
+#: travel-visa-widget.php
+msgid "Travel Visa Widget"
+msgstr ""
+
+#. Plugin URI of the plugin
+#: travel-visa-widget.php
+msgid "https://wordpress.org/plugins/travel-visa-widget/"
+msgstr ""
+
+#. Description of the plugin
+#: travel-visa-widget.php
+msgid "Travel Visa Widget is a tool to know which countries need a travel visa."
+msgstr ""
+
+#. Author of the plugin
+#: travel-visa-widget.php
+msgid "Visamundi"
+msgstr ""
+
+#. Author URI of the plugin
+#: travel-visa-widget.php
+msgid "https://www.visamundi.co/"
+msgstr ""
+
+#: inc/admin.php:14
+#: inc/admin.php:15
+#: inc/widget/class-vmtvw-widget.php:19
+msgctxt "Name of the plugin"
+msgid "Travel Visa Widget"
+msgstr ""
+
+#: inc/admin.php:43
+msgid "General settings"
+msgstr ""
+
+#: inc/admin.php:51
+msgid "Agency ID"
+msgstr ""
+
+#: inc/admin.php:58
+msgid "Affilae ID"
+msgstr ""
+
+#: inc/admin.php:148
+msgid "Provide an agency ID to merge all applications from travellers in your Visamundi dashboard."
+msgstr ""
+
+#: inc/admin.php:149
+msgid "You can contact us at %s to get this ID."
+msgstr ""
+
+#: inc/admin.php:169
+msgid "If you have a partner identifier, you can fill it in to facilitate the refund."
+msgstr ""
+
+#: inc/admin.php:170
+msgid "More information on %s."
+msgstr ""
+
+#: inc/admin.php:170
+msgid "the Affilae website"
+msgstr ""
+
+#: inc/ajax.php:37
+msgid "An error occurred"
+msgstr ""
+
+#: inc/render.php:29
+msgctxt "Find your Visa with Visamundi"
+msgid "Find your %1$s with %2$s"
+msgstr ""
+
+#: inc/render.php:30
+msgid "Visa"
+msgstr ""
+
+#: inc/render.php:99
+msgctxt "To travel to (destination_name) with a (nationality_demonym), ..."
+msgid "a visa is required"
+msgstr ""
+
+#: inc/render.php:100
+msgctxt "To travel to (destination_name) with a (nationality_demonym), ..."
+msgid "a visa is granted on arrival"
+msgstr ""
+
+#: inc/render.php:101
+msgctxt "To travel to (destination_name) with a (nationality_demonym), ..."
+msgid "you will need a travel document"
+msgstr ""
+
+#: inc/render.php:102
+msgctxt "To travel to (destination_name) with a (nationality_demonym), ..."
+msgid "you will need a Hayya Entry Permit"
+msgstr ""
+
+#: inc/render.php:103
+msgctxt "To travel to (destination_name) with a (nationality_demonym), ..."
+msgid "no visa is required"
+msgstr ""
+
+#: inc/render.php:104
+msgctxt "To travel to (destination_name) with a (nationality_demonym), ..."
+msgid "it's compromised because no admission is possible"
+msgstr ""
+
+#: inc/render.php:110
+msgid "no visa is required for a stay of up to %d days"
+msgstr ""
+
+#: inc/render.php:112
+msgid "Please choose a destination different from your passport."
+msgstr ""
+
+#: inc/render.php:114
+msgctxt "To travel to (destination_name) with a (nationality_demonym), ..."
+msgid "we don't have information on what is needed"
+msgstr ""
+
+#: inc/render.php:120
+msgctxt "To travel (destination_prefix) (destination_name) with a (nationality_demonym) passport, (you will/won't need ...)"
+msgid "To travel %1$s %2$s with a %3$s passport, %4$s."
+msgstr ""
+
+#: inc/render.php:138
+msgid "Get my Visa"
+msgstr ""
+
+#: inc/render.php:141
+msgid "Get my other mandatory document"
+msgstr ""
+
+#: inc/render.php:143
+msgid "Get my Document"
+msgstr ""
+
+#: inc/render.php:153
+msgid "Our teams have been notified and will update the data accordingly."
+msgstr ""
+
+#: inc/widget/class-vmtvw-widget.php:21
+msgid "A widget to know which countries need a travel visa."
+msgstr ""
+
+#: views/public/widget-base.php:22
+#: views/public/widget-base.php:23
+msgid "What is your nationality ?"
+msgstr ""
+
+#: views/public/widget-base.php:26
+msgid "Nationality"
+msgstr ""
+
+#: views/public/widget-base.php:31
+#: views/public/widget-base.php:32
+msgid "What is your destination ?"
+msgstr ""
+
+#: views/public/widget-base.php:35
+msgid "Destination"
+msgstr ""
